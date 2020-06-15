@@ -23,7 +23,7 @@ You've explored your data and built your models. Your collaborators want to see 
   - Load the shiny and tidyverse libraries
   - Start a shiny app using the shiny app snippet
     - Start typing 'shiny' in your script and RStudio will offer autocomplete suggestions
-- Integrate either tab
+- Use any Layout but make sure tabs are included (i.e. navbarPage, sidebarLayout with navlistPanel, etc)
   - tabs: EDA, Models, Map
 - Give your app a title
 - Include an input widget to select a city in EDA tab
