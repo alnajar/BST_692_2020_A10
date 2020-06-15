@@ -32,7 +32,7 @@ You've explored your data and built your models. Your collaborators want to see 
   - EDA plots from Assignment 4
 
 ### Notes
-You want to have a reactive dataset in the server to be able to subset the women based on city. We will cover this more, but a good place to start is to first create the skeleton of the app, with title and tabs, and then get your EDA plots to display for all women. Then, add the filtering for city that listens to the city dropdown.
+You want to have a reactive dataset in the server to be able to subset the women based on city. We will cover this more on 06/17, but a good place to start is to first create the skeleton of the app, with title and tabs, and then get your EDA plots to display for all women. Then, add the filtering for city that listens to the city dropdown.
 
 #### Hint
 
